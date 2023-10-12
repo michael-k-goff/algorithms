@@ -7,3 +7,4 @@ This project is a collection of various short demonstrations of algorithms.
 - ```decision_tree.ipynb``` Decision trees
 - ```knn.ipynb``` k-Nearest Neighbors
 - ```xgboost.ipynb``` XGBoost
+- ```random_forest.ipynb``` Random Forest
